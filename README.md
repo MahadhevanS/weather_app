@@ -1,8 +1,8 @@
-#Weather App
+# Weather App
 
 A simple and elegant weather application built with Flutter that provides real-time weather updates, forecasts, and detailed weather conditions.
 
-#Features
+# Features
 
 **Current Weather**: Displays real-time temperature, humidity, and wind speed.
 
@@ -14,10 +14,10 @@ A simple and elegant weather application built with Flutter that provides real-t
 
 **Minimal UI:** Clean and responsive design for a seamless user experience.
 
-A demo video of the application: 
+A demo video of the application: https://drive.google.com/file/d/1LiGO5mgGnE-yRFkbiyTVjQYhjAFVTcyd/view?usp=sharing
 
 
-#Installation
+# Installation
 
 **Clone the repository**
 
@@ -44,7 +44,7 @@ Add your API key in lib/constants.dart:
 
 const String apiKey = "YOUR_API_KEY";
 
-#Technologies Used
+# Technologies Used
 
 Flutter: UI development framework
 
@@ -52,11 +52,11 @@ Dart: Programming language for Flutter
 
 OpenWeather API: Fetching weather data
 
-#License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-#Contact
+# Contact
 
 For any queries or suggestions, reach out at mahadhevan0502@gamil.com or open an issue on GitHub.
 
